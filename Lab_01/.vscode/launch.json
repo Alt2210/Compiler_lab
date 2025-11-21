@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "console": "externalTerminal",
+      "cwd": "d:/Compiler/complier_lab_1/incompleted",
+      "program": "d:/Compiler/complier_lab_1/incompleted/build/Debug/outDebug"
+    }
+  ]
+}
